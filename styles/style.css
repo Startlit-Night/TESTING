@@ -1,0 +1,118 @@
+*{
+	margin: 0;
+	padding: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, League-Spartan, 'Libre Baskerville', 'Cedarville Cursive', 'Lobster', 'Great Vibes' sans-serif;
+}	
+
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(bg.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+nav{
+	-ms-box-orient: horizontal;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    padding: 3% 6%;
+}
+
+.main{
+    flex: 1;
+    text-align: center;
+}
+
+.main ul{
+	float: right;
+	list-style-type: none;
+}
+
+.main ul li{
+    display: inline-block;
+    padding: 8px 20px;
+    position: relative;
+	margin-right: 13px;
+}
+
+.main ul li a{
+    color: rgb(245, 226, 199);
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.main ul li:hover{
+    background-color: #ad8650;
+    color: #000;
+}
+
+.main ul li a:active{
+	color: white;
+}
+
+.logo{
+	float: left;
+	margin-left: 14px;
+}
+
+.image-logo-logo-logo{
+	width: 160px;
+	margin-top: -56px;
+}
+
+.main{
+	max-width: 1500px;
+	margin: auto;
+}
+
+.title{
+	position: absolute;
+	top: 45%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.title h1{
+	color: #f3e3d3;
+	font-size: 86px;
+	font-family: League-Spartan;
+	text-align: center;
+	font-weight: 700;
+	transition: 0.3s;
+}
+
+.title h3{
+	color: #efeacd;
+    font-size: 21px;
+	font-family: 'Libre Baskerville', serif;
+	transition: 0.3s;
+}
+
+.title h1:hover{
+	-webkit-text-stroke: 2px #efeacd;
+	color: transparent;
+}
+
+.title h3:hover{
+	-webkit-text-stroke: 1px #f3e3d3;
+	color: transparent;
+}
+
+.main-1{
+	margin-top: 37px;
+}
+
+@media screen {
+	.title h1{
+		font-size: 70px;
+	}
+	.title{
+		margin-top: 25px;
+	}
+}

@@ -1,0 +1,543 @@
+/**HEADER IMAGE OF ABOUT US**/
+
+@media (max-width: 300px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -70px;
+        font-size: 25px;
+    }
+    .background-image-about-us{
+        height: 125px;
+        width: 305px;
+        margin-top: -20px;
+    }
+    .header-about-us{
+        height: 105px;
+    }
+}
+
+
+@media (min-width: 300px) and (max-width: 350px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -70px;
+        font-size: 25px;
+    }
+    .background-image-about-us{
+        height: 125px;
+        width: 355px;
+        margin-top: -20px;
+    }
+    .header-about-us{
+        height: 105px;
+    }
+}
+
+
+@media (min-width: 350px) and (max-width: 400px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -88px;
+        font-size: 30px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 405px;
+        margin-top: -20px;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 450px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -88px;
+        font-size: 30px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 455px;
+        margin-top: -20px;
+    }
+}
+
+@media (min-width: 450px) and (max-width: 500px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -88px;
+        font-size: 40px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 505px;
+        margin-top: -20px;
+    }
+    
+}
+
+@media (min-width: 500px) and (max-width: 550px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -88px;
+        font-size: 40px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 555px;
+        margin-top: -20px;
+    }
+    
+}
+
+@media (min-width: 550px) and (max-width: 600px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -88px;
+        font-size: 40px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 605px;
+        margin-top: -20px;
+    }
+    
+}
+
+@media (min-width: 600px) and (max-width: 650px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -88px;
+        font-size: 40px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 655px;
+        margin-top: -20px;
+    }
+    
+}
+
+@media (min-width: 650px) and (max-width: 700px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -88px;
+        font-size: 40px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 708px;
+        margin-top: -20px;
+    }
+    
+}
+
+@media (min-width: 700px) and (max-width: 750px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+        font-size: 45px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 785px;
+        margin-top: -20px;
+    }
+    
+}
+
+@media (min-width: 750px) and (max-width: 800px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+        font-size: 45px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 815px;
+        margin-top: -20px;
+    }
+    
+}
+
+@media (min-width: 800px) and (max-width: 850px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+        font-size: 45px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 865px;
+        margin-top: -20px;
+    }
+    
+}
+
+@media (min-width: 850px) and (max-width: 900px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+        font-size: 45px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 915px;
+        margin-top: -20px;
+    }
+    
+}
+
+@media (min-width: 900px) and (max-width: 950px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+        font-size: 45px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 970px;
+        margin-top: -20px;
+    }
+    
+}
+
+@media (min-width: 950px) and (max-width: 1000px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+        font-size: 45px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 1035px;
+        margin-top: -20px;
+    }
+    
+}
+
+@media (min-width: 1000px) and (max-width: 1050px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 1075px;
+        margin-top: -20px;
+    }
+    
+}
+
+@media (min-width: 1050px) and (max-width: 1100px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 1120px;
+        margin-top: -20px;
+    }
+    
+}
+
+@media (min-width: 1100px) and (max-width: 1150px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 1170px;
+        margin-top: -20px;
+    }
+    
+}
+
+
+@media (min-width: 1150px) and (max-width: 1200px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 1220px;
+        margin-top: -20px;
+    }
+    
+}
+
+@media (min-width: 1200px) and (max-width: 1250px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 1280px;
+        margin-top: -20px;
+    }
+    
+}
+
+@media (min-width: 1250px) and (max-width: 1300px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 1320px;
+        margin-top: -20px;
+    }
+    
+}
+
+@media (min-width: 1300px) and (max-width: 1350px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 1370px;
+        margin-top: -20px;
+    }
+    
+}
+
+@media (min-width: 1350px) and (max-width: 1400px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 1420px;
+        margin-top: -20px;
+    }
+    
+}
+
+@media (min-width: 1400px) and (max-width: 1450px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 1475px;
+        margin-top: -20px;
+    }
+    
+}
+
+@media (min-width: 1450px) and (max-width: 1500px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 1515px;
+        margin-top: -20px;
+    }
+    .header-about-us {
+        height: 125px;
+        width: 1585px;
+    
+        display: flex;
+        background-image: linear-gradient(rgba(147, 72, 26, 0.5),rgba(147, 72, 26,0.5));
+    
+    }
+    
+}
+
+@media (min-width: 1525px) and (max-width: 1550px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 1545px;
+        margin-top: -20px;
+    }
+    .header-about-us {
+        height: 125px;
+        width: 1545px;
+    
+        display: flex;
+        background-image: linear-gradient(rgba(147, 72, 26, 0.5),rgba(147, 72, 26,0.5));
+    
+    }
+    
+}
+
+@media (min-width: 1550px) and (max-width: 1575px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 1565px;
+        margin-top: -20px;
+    }
+    .header-about-us {
+        height: 125px;
+        width: 1565px;
+    
+        display: flex;
+        background-image: linear-gradient(rgba(147, 72, 26, 0.5),rgba(147, 72, 26,0.5));
+    
+    }
+    
+}
+
+@media (min-width: 1575px) and (max-width: 1600px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 1585px;
+        margin-top: -20px;
+    }
+    .header-about-us {
+        height: 125px;
+        width: 1585px;
+    
+        display: flex;
+        background-image: linear-gradient(rgba(147, 72, 26, 0.5),rgba(147, 72, 26,0.5));
+    
+    }
+    
+}
+
+@media (min-width: 1600px) and (max-width: 1625px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 1605px;
+        margin-top: -20px;
+    }
+    .header-about-us {
+        height: 125px;
+        width: 1605px;
+    
+        display: flex;
+        background-image: linear-gradient(rgba(147, 72, 26, 0.5),rgba(147, 72, 26,0.5));
+    
+    }
+
+}
+
+@media (min-width: 1625px) and (max-width: 1650px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 1640px;
+        margin-top: -20px;
+    }
+    .header-about-us {
+        height: 125px;
+        width: 1640px;
+    
+        display: flex;
+        background-image: linear-gradient(rgba(147, 72, 26, 0.5),rgba(147, 72, 26,0.5));
+    
+    }
+    
+}
+
+@media (min-width: 1650px) and (max-width: 1675px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 1660px;
+        margin-top: -20px;
+    }
+    .header-about-us {
+        height: 125px;
+        width: 1660px;
+    
+        display: flex;
+        background-image: linear-gradient(rgba(147, 72, 26, 0.5),rgba(147, 72, 26,0.5));
+    
+    }
+    
+}
+
+@media (min-width: 1675px) and (max-width: 1700px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 1690px;
+        margin-top: -20px;
+    }
+    .header-about-us {
+        height: 125px;
+        width: 1690px;
+    
+        display: flex;
+        background-image: linear-gradient(rgba(147, 72, 26, 0.5),rgba(147, 72, 26,0.5));
+    
+    }
+    
+}
+
+@media (min-width: 1700px) and (max-width: 1725px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 1710px;
+        margin-top: -20px;
+    }
+    .header-about-us {
+        height: 125px;
+        width: 1710px;
+    
+        display: flex;
+        background-image: linear-gradient(rgba(147, 72, 26, 0.5),rgba(147, 72, 26,0.5));
+    
+    }
+
+}
+
+@media (min-width: 1725px) and (max-width: 1750px) {
+    .header-text-about-us{
+        text-align: center;
+        margin-top: -95px;
+    }
+    .background-image-about-us{
+        height: 145px;
+        width: 1730px;
+        margin-top: -20px;
+    }
+    .header-about-us {
+        height: 125px;
+        width: 1730px;
+    
+        display: flex;
+        background-image: linear-gradient(rgba(147, 72, 26, 0.5),rgba(147, 72, 26,0.5));
+    
+    }
+
+}
